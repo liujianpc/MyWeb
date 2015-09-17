@@ -1,2 +1,2 @@
-Git is a distribute version control system.
-Git is free software.
+this prj is my first prj on github,
+and git is an perfect system.
